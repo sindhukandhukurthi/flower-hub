@@ -1,1 +1,6 @@
-rose,lilly
+<<<<<<< HEAD
+rose
+=======
+roses are not only red
+>>>>>>> 82e238d6eefadfae4773b0fb21aad3358a2a6e43
+jasmine is in white color
